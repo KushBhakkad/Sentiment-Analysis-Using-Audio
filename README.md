@@ -25,7 +25,7 @@ Sentiment Analysis Using Audio is a machine learning project designed to predict
 - Required Python libraries (Install via pip):
   - pip install -r requirements.txt
   - For PyAudio installation:
-    -Use the .whl file provided or install via pip:
+    - Use the .whl file provided or install via pip:
       - pip install PyAudio-0.2.14-cp310-cp310-win_amd64.whl
 
 **Command to run:**
